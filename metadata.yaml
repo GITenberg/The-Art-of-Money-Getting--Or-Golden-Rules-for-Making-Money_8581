@@ -1,0 +1,27 @@
+_repo: The-Art-of-Money-Getting--Or-Golden-Rules-for-Making-Money_8581
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barnum, P. T. (Phineas Taylor)
+    alias: Barnum, Phineas Taylor
+    birthdate: 1810
+    deathdate: 1891
+    gutenberg_agent_id: '2816'
+    url: http://www.gutenberg.org/2009/agents/2816
+    wikipedia: http://en.wikipedia.org/wiki/P._T._Barnum
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8581'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Success'
+- !lcsh 'Success in business'
+- !lcc 'HF'
+- GITenberg
+title: The Art of Money Getting; Or, Golden Rules for Making Money
+url: http://www.gutenberg.org/ebooks/8581
